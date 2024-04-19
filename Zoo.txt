@@ -1,0 +1,8 @@
+Slon indický,450,Samec,20
+Tygr skvrnitý,200,Samice,8
+Žirafa Rothschildova,900,Samec,15
+Panda velká,150,Samice,6
+Lev africký,190,Samec,10
+Krokodýl nilský,500,Samice,30
+Orangutan bornejský,70,Samice,12
+Panda červená,12,Samice,3
